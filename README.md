@@ -1,17 +1,19 @@
 # Gnome-RICE-config
 
-OS: Arch Linux 
+This repository contains my **Arch - GNOME** configuration and ricing setup.
 
-DE: GNOME GTK 
+**OS:** Arch Linux 
 
-Theme: MacTahoe-Light-grey (https://github.com/vinceliuice/MacTahoe-gtk-theme) 
+**DE:** GNOME GTK 
 
-Icons: Colloid (https://www.gnome-look.org/p/1661983/) 
+**Theme:** MacTahoe-Light-grey (https://github.com/vinceliuice/MacTahoe-gtk-theme) 
 
-Cursor: Bibata-Modern-Ice
+**Icons:** Colloid (https://www.gnome-look.org/p/1661983/) 
 
-Kitty Shell: Zsh 
+**Cursor:** Bibata-Modern-Ice
 
-Fastfetch: Custom 
+**Kitty Shell:** Zsh 
 
-Wallpaper: https://wallhaven.cc/w/zmo6jj
+**Fastfetch:** Custom 
+
+**Wallpaper:** https://wallhaven.cc/w/zmo6jj
